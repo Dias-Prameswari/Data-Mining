@@ -25,4 +25,4 @@ semua file dari lokal / documents
 12. average holding period = 1.07
 13. consecutive profit  & pips = 8x (+1600.00 pips)
 14. consecutive loss & pips = 3x (-270.00 pips)
-hasil code yg saya buat blm sama dengan hasil analisis diatas
+## hasil code yg saya buat blm sama dengan hasil analisis diatas
