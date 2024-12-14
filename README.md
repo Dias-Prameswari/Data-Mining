@@ -4,6 +4,7 @@ semua file dari lokal / documents
 # catatan nama file 
 1. dataset om = XAUUSD H1
 2. datset mama = backtest-template-v2
+3. link dataset = https://drive.google.com/drive/folders/1flmbneFBcgxOaWHupIpeJFlOQ9wF_XiJ?usp=sharing
 
 1. lstm mama = prediksi-forex-mama
 2. analisis profit dll, sesuai proposal = prediksi-mama-2
